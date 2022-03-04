@@ -1,5 +1,5 @@
 # Docker configuration
-## Laravel app configured with PostgreSQL using Docker containers
+## Docker configuration for Laravel app configured with PostgreSQL using Docker containers
 
 - Run command: `docker-compose up --build -d`
 - Run the container in bash mode: `docker exec -it Laravel_php /bin/sh`
